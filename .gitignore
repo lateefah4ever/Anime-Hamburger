@@ -1,2 +1,10 @@
 
 fontawesome-free-6.0.0-beta2-web/css/v4-shims.min.css
+*.js
+*.css
+*.less
+*.scss
+*.svg
+*.ttf
+*.txt
+*.woff2
